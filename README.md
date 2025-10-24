@@ -11,7 +11,7 @@ Utilizei o seguinte prompt para criar o dicumento:
 Gerar um ebook em pdf sobre os caminhos para começar a utilizar ferramentas de Inteligência Artificial(IA) no nosso cotidiano. O documento deve incluir o passo a passo para utilizar as principais ferrramentas do mercado. Incluir imagens e diagramas para facilitar a visualização. O texto deve ser em português do Brasil (PT-BR)
 
 ## 🚀 Resultados
-O resiltado foi um texto interessante. O Copilot não gerou o arquivo em pdf automaticamente, por isso eu copiei e colei o texto em um documento do Word e transformei em pdf para postar aqui
+O resultado foi um texto interessante. O Copilot não gerou o arquivo em pdf automaticamente, por isso eu copiei e colei o texto em um documento do Word e transformei em pdf para postar aqui
 
 ## 💭 Reflexão (Opcional)
 A IA é o futuro, temos apenas que aprender a usa-la com responsabilidade.
